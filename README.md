@@ -27,12 +27,12 @@ Challenge yourself or your friends in this interactive, visually stunning, and r
 
 Clone this repository:
 ```bash```
-```git clone https://github.com/your-username/rock-paper-scissors.git```
+```https://github.com/pragti-124/Rock-Paper-Scissors.git```
 
 Navigate to the project directory:
 
 ```bash```
-```cd rock-paper-scissors```
+```cd Rock-Paper-Scissors```
 
 Open index.html in your favorite browser.
 
